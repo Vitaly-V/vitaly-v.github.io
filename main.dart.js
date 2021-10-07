@@ -35491,7 +35491,7 @@ O(a,b){var s,r=null,q=$.c4(),p=$.b_().b.a.f
 p=p.length===0?C.CN:C.b.gG(p)
 s=this.c
 s=s.a3S(s.q.a47(new P.I(4292477776),new P.I(4284023001),new P.I(4278442693)))
-return new U.to(S.aek(r,!1,!1,r,r,!0,!1,new X.D0(S.a9z(q,O.a8R(),t.cE),F.Fo(),r),r,r,r,r,r,r,r,C.kj,r,r,r,r,C.pf,r,r,r,!1,!1,C.hc,s,C.id,"Price Comparator"),new F.Ve(),p,new P.hx("en","US"),r)}}
+return new U.to(S.aek(r,!1,!1,r,r,!0,!1,new X.D0(S.a9z(q,O.a8R(),t.cE),F.Fo(),r),r,r,r,r,r,r,r,C.kj,r,r,r,r,C.pf,r,r,r,!1,!1,C.hc,s,C.id,"Price Assistant"),new F.Ve(),p,new P.hx("en","US"),r)}}
 X.D0.prototype={
 O(a,b){var s=null,r=b.a2(t.w).f.f.b,q=K.aA(b),p=M.fz(C.iO,L.iX(X.Gw("apptitle"),s,s,s,A.h2(s,s,C.l,s,s,s,s,s,s,s,s,20,s,C.b0,s,s,!0,s,s,s,s,s,s,s,s),s,s),new P.I(4284612846),s,r+50,new V.aP(0,r,0,0),new V.aP(20,0,20,0),s),o=t.F,n=H.a([B.a9x(s,L.Ts(C.jY,C.l,s),24,new X.UW(this),s)],o),m=T.t7(new T.eC(new V.aP(16,0,16,0),T.a8W(H.a([T.fZ(s,16,s),M.fz(C.iO,L.iX(X.Gw("header"),s,s,s,A.h2(s,s,s,s,s,s,s,s,s,s,s,20,s,C.b0,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,s,s,s,s,s),T.fZ(s,16,s),T.t7(new X.uv(new X.UX(this),s),1)],o),C.aM,C.bF),s),1),l=K.aA(b)
 return D.nQ(s,new M.vl(new E.re(n,p,q.q.a,new E.KG(s,s,1/0,56),s),T.mw(C.bs,H.a([T.a8W(H.a([m,M.fz(s,T.Ag(M.fz(s,s,C.l,s,2,s,s,72),s,s),l.q.a,s,16,s,s,s)],o),C.aM,C.bF),T.WS(26,E.adO(L.Ts(C.AV,s,s),!1,new X.UY(this),"Add"),s,s,s,16,s,s)],o),C.bO),s),C.at,!1,s,s,s,s,s,s,s,s,s,s,s,s,new X.UZ(b),s,s,s,s,s,s)}}
@@ -60775,7 +60775,7 @@ r=$.NW()
 r.a=s.k1
 r.b=s.k2
 s=t.N
-s=P.aG(["en_US",P.aG(["apptitle","Price Comparator","header","Enter product amount and price","amount","Amount","price","Price","peritem","Price per item"],s,s),"ru_RU",P.aG(["apptitle","\u041a\u0430\u043b\u044c\u043a\u0443\u043b\u044f\u0442\u043e\u0440 \u0446\u0435\u043d\u044b","header","\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0438 \u0446\u0435\u043d\u0443","amount","\u041a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e","price","\u0426\u0435\u043d\u0430","peritem","\u0426\u0435\u043d\u0430 \u0437\u0430 \u0435\u0434\u0438\u043d\u0438\u0446\u0443"],s,s)],s,t.GU)
+s=P.aG(["en_US",P.aG(["apptitle","Price Assistant","header","Enter product amount and price","amount","Amount","price","Price","peritem","Price per item"],s,s),"ru_RU",P.aG(["apptitle","Price Assistant","header","\u0412\u0432\u0435\u0434\u0438\u0442\u0435 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0438 \u0446\u0435\u043d\u0443","amount","\u041a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e","price","\u0426\u0435\u043d\u0430","peritem","\u0426\u0435\u043d\u0430 \u0437\u0430 \u0435\u0434\u0438\u043d\u0438\u0446\u0443"],s,s)],s,t.GU)
 r.c.H(0,s)
 s=$.a8q()
 s.rx=null
